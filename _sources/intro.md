@@ -4,6 +4,10 @@
 Welcome to UC Irvine! This is where I will be hosting notes from our Algebra
 Jumpstart Discussions this summer.
 
+__Meeting Times__
+
+Wednesdays and Fridays 10:00am-11:00am Pacific Time via Zoom.
+
 __Resources__
 
 * My <a href="https://www.youtube.com/playlist?list=PL6ue_xaI6w4NB_KxXmPayygfdHAGfQb0K"  target="_blank" rel="noopener noreferrer">
